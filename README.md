@@ -1,5 +1,6 @@
 # Ex03 Time Table
-## Date:
+## Date: 13.03.2025
+## Name: S Abinav Aditya
 
 ## AIM
 To write a html webpage page to display your slot timetable.
