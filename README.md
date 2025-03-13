@@ -4,7 +4,7 @@
 ## AIM
 To write a html webpage page to display your slot timetable.
 
-## ALGORITHM
+## ALGORITH
 ### STEP 1
 Create a Django-admin Interface.
 
@@ -24,8 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-<!DOCTYPE html>
+```
 <html lang="en">
     <th></ol>
         <center><img src="sav.jpg" height="150px" width="700px" alt="Something went wrong"></th></center>
@@ -149,7 +148,7 @@ Execute the program using runserver command.
     </table>
 
 </
-
+```
 
 
 ## OUTPUT
